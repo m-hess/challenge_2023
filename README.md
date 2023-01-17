@@ -15,7 +15,7 @@ Visualize your selected image and save it to a grayscale png, following the nami
 3. Apply any filter of your choice  to your selected image (as in any kind of image manipulation that is NOT contrast inversion like you completed in Step 2). No examples for this prompt, feel free to be creative! :smile:
 
 # Submission
-Upload all your code and your images to a [GitHub](https://github.com/) repository (see [here](https://docs.github.com/en/get-started/quickstart) if you need help getting started). Submit the URL to your GitHub repository with your solution to [this SmartSheet](). 
+Upload all your code and your images to a [GitHub](https://github.com/) repository (see [here](https://docs.github.com/en/get-started/quickstart) if you need help getting started). Submit the URL to your GitHub repository with your solution to [this SmartSheet](https://app.smartsheet.com/b/form/27c8277456874eef8005c0a919021e51).  (Your link should look something like *https://github.com/m-hess/challenge_2023/security*.)
 ***Note:** Make sure that your repository is **publicly** visible and is not set to private mode so that we can see your solution and your code.*
 
 Congratulations on completing the UCSF Center for Intelligent Imaging Summer 2023 coding challenge!
